@@ -1,0 +1,6 @@
+{
+  "name": "Compar Intelligence 2.0",
+  "description": "Plataforma universal de inteligência de dados, análise de planilhas legislativas e produção de relatórios para comunicação e dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
